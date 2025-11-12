@@ -1,0 +1,9 @@
+import random
+
+number = random.randint(1, 10)
+guess = int(input("Угадай число от 1 до 10: "))
+
+if guess == number:
+    print("Правильно!")
+else:
+    print(f"Неправильно! Было: {number}")
