@@ -1,3 +1,3 @@
 name = input("Введите ваше имя: ")
 age = input("Введите ваш возраст: ")
-print(f"Привет, {name}! Тебе {age} лет.")
+print(f"Привет, {name}! Тебе {age} лет.")# greetings my friend!
