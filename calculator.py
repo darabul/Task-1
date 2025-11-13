@@ -6,4 +6,4 @@ if operation == "+": print(a + b)
 elif operation == "-": print(a - b)
 elif operation == "*": print(a * b)
 elif operation == "/": print(a / b if b != 0 else "Ошибка!")
-else: print("Неизвестная операция")
+else: print("Неизвестная операция")# could you calculate this
